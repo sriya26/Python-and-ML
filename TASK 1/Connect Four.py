@@ -6,7 +6,7 @@ def new_board():
     return board
 
 
-def player_turn():
+def player_turn(): # to give value to the piece corresponding to the player
     if turn == 0:
         piece = 1
     else:
