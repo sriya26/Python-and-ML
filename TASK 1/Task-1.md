@@ -1,5 +1,5 @@
 # **Task-1**
-===
+
 ---
 
 ## 1) _Crash course on Python by Google and WordCloud_
@@ -52,7 +52,7 @@ Else the value will be incremented by 1.
 
 Then created a wordcloud using WordCloud() and displayed the image using matplotlib 
 
-Link to certificate:(https://coursera.org/share/5d6c2cb2fa083d6d33d460952777393d)
+Link to certificate:https://coursera.org/share/5d6c2cb2fa083d6d33d460952777393d
 
 
 
