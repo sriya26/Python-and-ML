@@ -98,6 +98,7 @@ References: 1. https://medium.com/@pk1288780/creating-tic-tac-toe-in-python-usin
 •	The updated board is printed after every turn and the variable turn is incremented and then using mod the remainder is taken to alternate between player 1 and 2.
 
 References: 1.  https://github.com/jayanam/connect4_python/tree/master/classes
+
 2. https://github.com/KeithGalli/Connect4Python/blob/master/connect4.py
 
 
