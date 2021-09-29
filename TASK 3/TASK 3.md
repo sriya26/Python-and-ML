@@ -31,3 +31,24 @@ Third course of the Deep Learning Specialization,all about how to build a succes
 
 >-End-to-end learning, transfer learning, and multi-task learning.
 
+## 4) _Convolutional Neural Networks_
+Fourth course of the Deep Learning Specialization, about Computer Vision and its applications such as autonomous driving, face recognition and reading radiology images.
+
+>-Building a convolutional neural network, including residual networks
+Applying CNN to visual detection and recognition tasks
+
+>-Neural style transfer to generate art and apply these algorithms to image, video, and other 2D or 3D data. 
+
+## 5) _Sequence Models_
+Fifth course of the Deep Learning Specialization, about sequence models and their applications such as speech recognition, music synthesis, chatbots, machine translation and natural language processing (NLP). 
+
+>-Building and training Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs
+
+>-Apply RNNs to Character-level Language Modeling
+
+>-Natural language processing and Word Embeddings
+
+>-HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.
+
+
+
