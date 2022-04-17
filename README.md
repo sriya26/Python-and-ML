@@ -1,4 +1,4 @@
-# Vision-AI-Taskphase
+# Python-and-ML
 ## Task-1
 1) Completed Crash Course on Python by Google on Coursera. Learnt basics of python including datatypes,data structures like strings, dictionaries,lists etc. and Object Oriented Programming.
 2) Implemented the Word Cloud project as a part of the course. Used the concept of dictionaries to track occurence of different words in a textfile and used wordcloud and matplotlib to create a Word Cloud.
